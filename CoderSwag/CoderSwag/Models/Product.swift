@@ -1,7 +1,6 @@
 import Foundation
 
 struct Product {
-
     private(set) public var title: String
     private(set) public var price: String
     private(set) public var imageName: String
